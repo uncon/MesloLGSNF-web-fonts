@@ -1,5 +1,7 @@
 # MesloLGS NF Web Fonts
 
+This is simply the Meslo Nerd Font (MesloLGS NF) patched for [Powerlevel10k](https://github.com/romkatv/powerlevel10k) in woff2 format for use on Chrome OS.
+
 ## Usage
 
 ### [Secure Shell App](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
