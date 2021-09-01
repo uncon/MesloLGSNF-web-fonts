@@ -4,7 +4,7 @@ This is simply the Meslo Nerd Font (MesloLGS NF) patched for [Powerlevel10k](htt
 
 ## Usage
 
-### [Secure Shell App](https://chrome.google.com/webstore/detail/secure-shell/pnhechapfaindjhompbnflcldabbghjo)
+### [Secure Shell](https://chrome.google.com/webstore/detail/secure-shell/iodihamcpbpeioajjeobimgagajmlibd)
 
 * Launch *Secure Shell App*, and click on **Options**
 	* **Text font family**: `"MesloLGS NF", monospace`
